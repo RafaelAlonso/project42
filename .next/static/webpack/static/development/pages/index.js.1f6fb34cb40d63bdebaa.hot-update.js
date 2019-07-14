@@ -17,16 +17,22 @@ var _jsxFileName = "/Users/rafael/code/project-42/pages/index.js";
 
 
 /* harmony default export */ __webpack_exports__["default"] = (() => {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: undefined
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
+    },
+    __self: undefined
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
     },
     __self: undefined
   }, "My page title"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
@@ -34,13 +40,25 @@ var _jsxFileName = "/Users/rafael/code/project-42/pages/index.js";
     content: "initial-scale=1.0, width=device-width",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 8
     },
     __self: undefined
-  }));
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("body", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: undefined
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: undefined
+  }, "Ol\xE1 senhores")));
 });
 
 /***/ })
 
 })
-//# sourceMappingURL=index.js.22d04d4d2fa6e04dc0c5.hot-update.js.map
+//# sourceMappingURL=index.js.1f6fb34cb40d63bdebaa.hot-update.js.map

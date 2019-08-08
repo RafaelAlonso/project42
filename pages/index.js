@@ -1,4 +1,5 @@
-import Head from 'next/head'
+import Link from 'next/link';
+import Head from 'next/head';
 
 export default () => {
   return (
@@ -8,9 +9,11 @@ export default () => {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
 
-      <body>
-        <h1>Olá senhores</h1>
-      </body>
+
+      <h1>Olá senhores</h1>
+        <Link href="/projects">
+          <a>Project Page</a>
+        </Link>
     </div>
   );
 }

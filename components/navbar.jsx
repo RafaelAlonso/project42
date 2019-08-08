@@ -1,5 +1,6 @@
 import Link from 'next/link';
 
+// Style to add to each link
 const linkStyle = {
   marginRight: 15
 };
